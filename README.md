@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=300&section=header&text=HARISH%20SINGH&fontSize=80&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Cloud%20Engineer%20%7C%20Data%20Scientist&descAlignY=51&descAlign=60" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;duration=3000&amp;pause=500&amp;color=06b6d4&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=60&amp;lines=HARISH+SINGH;AI+%26+Cloud+Engineer;Data+Scientist+%7C+Cyber+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,6 +8,9 @@
   <a href="mailto:hzzzx06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://humaixo.vercel.app/"><img src="https://img.shields.io/badge/HUMAIXO-6366f1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
+
+---
+---
 
 ---
 
