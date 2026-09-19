@@ -15,7 +15,7 @@
 ---
 
 ### 🚀 Live Portfolio
-> **[Click Here to Experience the Interactive Portfolio](https://hrx19.github.io/portfolio/)**
+> **[Click Here to Experience the Interactive Portfolio](https://hrx19.github.io/Harish-Portfolio/)**
 > *(Note: Replace the link above with your actual GitHub Pages URL)*
 
 ---
